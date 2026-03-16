@@ -92,3 +92,4 @@ Telnet is a legacy remote access protocol that transmits all data, including cre
 | `screenshot1.png` | Evidence > Finding 1 |
 | `screenshot2.png` | Evidence > Finding 2 |
 | `screenshot3.png` | Evidence > Finding 3 |
+| `my-raw-reflection` | Self-explanatory |
